@@ -35,7 +35,7 @@ public class Crear_Prueba extends javax.swing.JPanel {
         jButton4 = new javax.swing.JButton();
         jButton5 = new javax.swing.JButton();
 
-        jLabel1.setFont(new java.awt.Font("Verdana", 0, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jLabel1.setText("Crear prueba.");
 
@@ -45,7 +45,7 @@ public class Crear_Prueba extends javax.swing.JPanel {
 
         jButton3.setText("Seleccion multiple, multiples respuestas");
 
-        jLabel2.setFont(new java.awt.Font("Verdana", 0, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Verdana", 1, 12)); // NOI18N
         jLabel2.setText("Seleccione el tipo de pregunta:");
 
         jButton4.setText("Salir");

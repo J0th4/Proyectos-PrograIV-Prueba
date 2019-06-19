@@ -32,7 +32,7 @@ public class Inicio extends javax.swing.JPanel {
         jButton2 = new javax.swing.JButton();
         jButton3 = new javax.swing.JButton();
 
-        jLabel1.setFont(new java.awt.Font("Verdana", 0, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jLabel1.setText("Seleccione una opción.");
 
@@ -57,7 +57,7 @@ public class Inicio extends javax.swing.JPanel {
                             .addComponent(jLabel1)
                             .addComponent(jButton2)
                             .addComponent(jButton3))
-                        .addGap(0, 148, Short.MAX_VALUE)))
+                        .addGap(0, 121, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
